@@ -13,4 +13,4 @@ make
 ./Deserialize.exe
 
 Works OK in Nano
-In Xavier NX Deserialize.exe cuases an assertin and segmentation fault
+In Xavier NX Deserialize.exe causes an assertion and segmentation fault
