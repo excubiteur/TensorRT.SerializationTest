@@ -14,3 +14,5 @@ make
 
 Works OK in Nano
 In Xavier NX Deserialize.exe causes an assertion and segmentation fault
+
+https://forums.developer.nvidia.com/t/xavier-nx-trt-deserialize-fails-for-a-specific-caffe-model/140884
